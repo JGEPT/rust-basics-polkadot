@@ -6,7 +6,7 @@ fn main() {
         println!("Not proceeding");
     }
 
-    let height = 190;
+    let height = 120;
     if height < 180 {
         println!("Tall");
     } else if height > 170 {
